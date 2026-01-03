@@ -7,11 +7,17 @@ To write a Python program to convert the number **16** into its **binary represe
 1. Assign the value `16` to a variable `a`.
 2. Use the built-in `bin()` function to convert the number to binary.
 3. Print the result.
-
-## 🧾 Program
+   
+🧾 Program:
+a=16
+binary_number= bin(x)
+print(binary_number)
 
 Add Code Here
 
-## Output
+Output:
+<img width="1035" height="191" alt="image" src="https://github.com/user-attachments/assets/51846aaa-5cbf-45d1-a776-5ff887d5d65f" />
 
-## Result
+
+Result:
+thus the given program is implemented successfully.
